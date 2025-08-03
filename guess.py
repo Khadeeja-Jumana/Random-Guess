@@ -11,7 +11,7 @@ def guess(x):
             print("Sorry, guess again. Too high!")
     print(f"Yay!! Congrats...You have guessed the number {random_number} correctly.")
 
-guess(30)
+guess(100)
 
-def computer_guess():
+
     
